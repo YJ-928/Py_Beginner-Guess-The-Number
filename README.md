@@ -4,3 +4,5 @@
 
 # Guess The Number Game
 #### A simple python number guessing game
+
+![image](https://github.com/YJ-928/Py_Beginner-Guess-The-Number/assets/68319416/61a08c5f-b893-4b2f-aafb-e73c439e304f)
